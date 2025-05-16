@@ -1,0 +1,6 @@
+[submodule "queue-room"]
+	path = queue-room
+	url = git@github.com:leokwsw/queue-room.git
+[submodule "queue-room-scheduler"]
+	path = queue-room-scheduler
+	url = git@github.com:leokwsw/queue-room-scheduler.git
